@@ -140,3 +140,19 @@ body {
     flex-direction: column;
   }
 }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+footer a {
+  color: #666;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
